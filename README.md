@@ -5,6 +5,7 @@ To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+![WhatsApp Image 2024-11-15 at 15 07 27_1ac0ee4c](https://github.com/user-attachments/assets/a07dc089-5455-4f92-be71-52af3aaf3bab)
 
 S C H E M A T I C S I M U L A T I O N
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
